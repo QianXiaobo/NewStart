@@ -1,8 +1,11 @@
-#! /bin/python3
-## _Version_:  python3
-## _Author_ :  Xb
-## _Date_   :  2023/2/16
-## _E-mail_ :  qianxiaobo@genomics.cn
+#! /usr/bin/python3
+```
+  -*- coding: utf-8 -*-
+  -*- version: python3 -*-
+  -*- author: Xb -*-
+  -*- Date: 2023/2/16 -*-
+  -*- email: qianxiaobo@genomics.cn -*-
+```
 
 
 import sys, os
